@@ -1,2 +1,2 @@
-# SpaceMap
-Une map de notre galaxie en vueJs permettant de pouvoirs parcourire et de découvrire l'espace
+# Kosmoz
+Une Application permettant dedécouvrir notre galaxie et univers en vueJs
